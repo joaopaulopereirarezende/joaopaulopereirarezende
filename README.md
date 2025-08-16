@@ -1,5 +1,3 @@
-# 🚀 Olá! Seja bem-vindo(a) ao meu universo digital! 
-
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Desenvolvedor+apaixonado+por+c%C3%B3digo;%F0%9F%94%AC+Futuro+f%C3%ADsico+em+forma%C3%A7%C3%A3o;%E2%9C%A8+Transformando+ideias+em+realidade;%F0%9F%9A%80+Always+learning%2C+always+coding!)
@@ -22,14 +20,13 @@ declare(strict_types=1);
 class GreetingGenerator 
 {
     private const GREETINGS = [
-        [0, 6]   => "🌙 Melhor dormir... ou codar em silêncio",
-        [6, 9]   => "😴 Quero dormir, mas o mundo insiste em funcionar",
-        [9, 12]  => "☀️ Bom dia! Cérebro ligando... quase lá",
-        [12, 15] => "🔥 Boa tarde! Energia no código, foco na missão",
-        [15, 18] => "⚡ Já bateu o cansaço, mas ainda dá pra aprender algo novo",
-        [18, 21] => "🌆 Boa noite! Ainda funcionando no modo automático",
-        [21, 23] => "💡 Hora perfeita pra filosofar e codar ideias malucas",
-        [23, 24] => "🛌 Vai dormir, mano. Amanhã tem mais código"
+        [0, 6]   => "Melhor dormir...",
+        [6, 9]   => "Quero dormir, mas o mundo insiste em funcionar",
+        [9, 12]  => "Bom dia!",
+        [12, 15] => "Boa tarde! Energia no código!",
+        [15, 18] => "Já bateu o cansaço, mas ainda dá pra aprender algo novo",
+        [18, 21] => "Boa noite!",
+        [23, 24] => "Vai dormir"
     ];
 
     public static function getGreetingByCurrentTime(): string 
