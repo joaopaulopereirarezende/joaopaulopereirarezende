@@ -39,11 +39,11 @@ class GreetingGenerator
             }
         }
         
-        return "🚀 Sempre pronto para mais uma aventura no código!";
+        return "Sempre pronto para mais uma aventura no código!";
     }
 }
 
-echo GreetingGenerator::getGreetingByCurrentTime() . " 🎯";
+echo GreetingGenerator::getGreetingByCurrentTime();
 ```
 
 ---
