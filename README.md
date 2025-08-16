@@ -3,8 +3,8 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Desenvolvedor+apaixonado+por+c%C3%B3digo;%F0%9F%94%AC+Futuro+f%C3%ADsico+em+forma%C3%A7%C3%A3o;%E2%9C%A8+Transformando+ideias+em+realidade;%F0%9F%9A%80+Always+learning%2C+always+coding!)
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaopaulopereirarezendesesi/joaopaulopereirarezendesesi/output/pacman-contribution-graph-dark.svg">
-    <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/joaopaulopereirarezendesesi/joaopaulopereirarezendesesi/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaopaulopereirarezende/joaopaulopereirarezende/output/pacman-contribution-graph-dark.svg">
+    <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/joaopaulopereirarezende/joaopaulopereirarezende/output/pacman-contribution-graph-dark.svg">
   </picture>
   
 </div>
@@ -138,16 +138,16 @@ echo GreetingGenerator::getGreetingByCurrentTime() . " 🎯";
 <table>
 <tr>
 <td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopaulopereirarezendesesi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=6366F1&icon_color=F59E0B&text_color=E5E7EB&border_color=374151"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopaulopereirarezende&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=6366F1&icon_color=F59E0B&text_color=E5E7EB&border_color=374151"/>
 </td>
 <td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulopereirarezendesesi&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=6366F1&text_color=E5E7EB&border_color=374151"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulopereirarezende&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=6366F1&text_color=E5E7EB&border_color=374151"/>
 </td>
 </tr>
 </table>
 
 ### 🏆 GitHub Insights
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopaulopereirarezendesesi&theme=tokyonight&border_radius=10&background=0D1117&ring=6366F1&fire=F59E0B&currStreakLabel=E5E7EB&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopaulopereirarezende&theme=tokyonight&border_radius=10&background=0D1117&ring=6366F1&fire=F59E0B&currStreakLabel=E5E7EB&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
 </div>
 
