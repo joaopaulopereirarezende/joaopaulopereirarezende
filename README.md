@@ -11,7 +11,7 @@
 
 ---
 
-## 💫 Uma Saudação Especial Para Você
+## 💫 Um oi Especial Para Você
 
 ```php
 <?php
