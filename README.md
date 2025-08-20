@@ -81,11 +81,6 @@ echo GreetingGenerator::getGreetingByCurrentTime();
 <br><strong>Desenvolvimento Web</strong>
 <br><em>Backend sólido e eficiente</em>
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<br><strong>Programação Sistema</strong>
-<br><em>Performance e otimização</em>
-</td>
 </tr>
 </table>
 
