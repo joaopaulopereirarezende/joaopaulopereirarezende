@@ -39,7 +39,7 @@ class GreetingGenerator
             }
         }
         
-        return "Sempre pronto para mais uma aventura no código!";
+        return "Sempre pronto para mais um erro!";
     }
 }
 
