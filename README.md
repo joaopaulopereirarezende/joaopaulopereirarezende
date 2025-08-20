@@ -62,7 +62,7 @@ echo GreetingGenerator::getGreetingByCurrentTime();
 
 💻 **Presente**: Desenvolvendo software com foco em qualidade, performance e inovação
 
-🎓 **Jornada**: Ainda no ensino médio, mas já mergulhado de cabeça no universo da programação
+🎓 **Jornada**: Ainda no ensino médio, mas já mergulhado de cabeça no universo da Engenharia de software
 
 🌟 **Filosofia**: Aprendizado prático, curiosidade infinita e dedicação total em cada linha de código
 
