@@ -174,9 +174,6 @@ echo GreetingGenerator::getGreetingByCurrentTime();
 ---
 
 <div align="center">
-  
-### 🚀 **"O futuro pertence àqueles que acreditam na beleza de seus sonhos"** 
-*- Eleanor Roosevelt*
 
 *Transformando sonhos em código, uma linha por vez* ✨
 
